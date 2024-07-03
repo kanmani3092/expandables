@@ -68,4 +68,9 @@ public class CheckOutPage extends BaseClass{
 	public WebElement getLogOut() {
 		return logOut;
 	}	
-}
+	
+	
+	
+		
+	}
+
