@@ -231,7 +231,9 @@ public class TestScript extends BaseClass {
 //
 //		}
 	}
-
+private void Tco1() {
+	System.out.println(1234);
+}
 
 		
 
